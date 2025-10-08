@@ -1,2 +1,2 @@
-# Boramem
-Jarak Tempuh
+# Jarak Tempuh
+TUnjukan Seberapa jauh kamu bisa pergi
